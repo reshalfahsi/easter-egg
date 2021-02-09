@@ -2,7 +2,7 @@
   "name": "easter-egg",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://reshalfahsi.github.io/easter-egg/",
+  "homepage": "http://reshalfahsi.github.io/easter-egg",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
